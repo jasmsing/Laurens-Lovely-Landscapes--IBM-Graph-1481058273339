@@ -8,4 +8,4 @@ For more information, see https://laurenslovelylandscapegraph.mybluemix.net/dev.
 
 
 --
- [Deploy to Bluemix](https://bluemix.net/deploy?repository=https://hub.jazz.net/git/lhayward/Laurens.Lovely.Landscapes.(IBM.Graph))
+ [Deploy to Bluemix](https://bluemix.net/deploy?repository=https://github.com/skaegi/Laurens.Lovely.Landscapes.-IBM.Graph-
